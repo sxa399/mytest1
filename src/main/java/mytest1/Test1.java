@@ -7,6 +7,7 @@ public class Test1 {
 		System.out.print("aa");
 		System.out.print("bb");
 		System.out.print("cc");
+		System.out.print("dd");
 	}
 
 }
